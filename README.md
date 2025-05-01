@@ -3,7 +3,9 @@
 ## Goals:
 
 Detect astronomical sources using different tools and possibly interdisciplinary tools as well.
-Compare the results with existing and established tools.
+Compare the results with existing and established tools or catalogues, e.g. [DESI Legacy Survey](https://www.legacysurvey.org/) (that uses [tractor](https://github.com/dstndstn/tractor)).
+
+
 
 
 ## Data access:
@@ -16,6 +18,9 @@ A) IVOA standard [galaxy tool](https://usegalaxy.eu/root?tool_id=toolshed.g2.bx.
 B) [DESI mmoda](https://gitlab.renkulab.io/astronomy/mmoda/desi-legacy-survey) / [galaxy tool](https://galaxy.odahub.fr/root?tool_id=toolshed.g2.bx.psu.edu/repos/astroteam/desi_legacy_survey_astro_tool/desi_legacy_survey_astro_tool/0.0.1+galaxy0)
 
 C) [Euclid Image](https://euclid.caltech.edu/image/euclid20250319d-euclid-deep-field-south-70x-zoom)
+
+D) [Euclid astroquery](https://astroquery.readthedocs.io/en/latest/esa/euclid/euclid.html#cutout-search)
+
 
 ## Methods:
 A) From Mallory Wittwer  (Mail: 29.04.2025):
@@ -43,7 +48,10 @@ A) Andrei:
   Questions:
   1) Are there some other parameters that could be interesting to change and see the effect on the final result?
   2) is there some other output of this workflow that quantifies the positions (and maybe the shape) of the structures so that I could compare this result with other methods?
-  
+
+B) Mallory:
+
+[SEP Output image](mallory_sep_output.png)
   
 
 ## Suggestions
