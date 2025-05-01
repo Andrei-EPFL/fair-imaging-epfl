@@ -29,6 +29,9 @@ A) From Mallory Wittwer  (Mail: 29.04.2025):
 
 B) [Nuclei Segmentation Boundary Model](https://bioimage.io/#/?id=10.5281%2Fzenodo.5764892)
 
+C) Suggestion: [Voronoi Segmentation for different scientific disciplines](https://github.com/galaxyproject/training-material/pull/5508#issuecomment-2830306324)
+
+
 ## Progress:
 A) Andrei:
   stored in [issue1](https://github.com/FAIR-imaging/OSCARS-FIESTA/issues/23#issuecomment-2804841724) and [issue2](https://github.com/FAIR-imaging/OSCARS-FIESTA/issues/1#issuecomment-2829873631)
@@ -54,6 +57,4 @@ B) Mallory:
 [SEP Output image](mallory_sep_output.png)
   
 
-## Suggestions
-[Voronoi Segmentation for different scientific disciplines](https://github.com/galaxyproject/training-material/pull/5508#issuecomment-2830306324)
 
