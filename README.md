@@ -22,14 +22,14 @@ A) From Mallory Wittwer  (Mail: 29.04.2025):
   1) [SEP](https://sep.readthedocs.io/en/stable/tutorial.html)
   3) Suggestions: [photutils, star finder algorithm](https://photutils.readthedocs.io/en/stable/user_guide/index.html),
 
-B) nuclei-segmentation-boundarymodel
+B) [Nuclei Segmentation Boundary Model](https://bioimage.io/#/?id=10.5281%2Fzenodo.5764892)
 
 ## Progress:
 A) Andrei:
   stored in [issue1](https://github.com/FAIR-imaging/OSCARS-FIESTA/issues/23#issuecomment-2804841724) and [issue2](https://github.com/FAIR-imaging/OSCARS-FIESTA/issues/1#issuecomment-2829873631)
 
   Summary:
-  I used as input a single band out of the three that make this [Euclid Image](https://euclid.caltech.edu/image/euclid20250319d-euclid-deep-field-south-70x-zoom) and obtained this [output](./Galaxy13-Overlay images on data 12 and data 2 output_png.png)
+  I used as input a single band out of the three that make this [Euclid Image](https://euclid.caltech.edu/image/euclid20250319d-euclid-deep-field-south-70x-zoom) and obtained this [output](./Galaxy13-Overlay-images-on-data-12-and-data-2-output_png.png)
 
   Based on this [tutorial](https://training.galaxyproject.org/training-material/topics/imaging/tutorials/process-image-bioimageio/tutorial.html):
   
