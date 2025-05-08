@@ -29,7 +29,7 @@ A) From Mallory Wittwer  (Mail: 29.04.2025):
 
 B) [Nuclei Segmentation Boundary Model](https://bioimage.io/#/?id=10.5281%2Fzenodo.5764892)
 
-C) Suggestion: [Voronoi Segmentation for different scientific disciplines](https://github.com/galaxyproject/training-material/pull/5508#issuecomment-2830306324)
+C) [Voronoi Segmentation for different scientific disciplines](https://github.com/galaxyproject/training-material/pull/5508#issuecomment-2830306324)
 
 
 ## Progress:
@@ -52,7 +52,13 @@ A) Andrei:
   1) Are there some other parameters that could be interesting to change and see the effect on the final result?
   2) is there some other output of this workflow that quantifies the positions (and maybe the shape) of the structures so that I could compare this result with other methods?
 
-B) Mallory:
+B) Voronoi Segmentation
+  After creating the [seed image](seed.tiff), I have applied the Voronoi segmentation and the workflow detected 801 galaxies:
+  [Resulting segmentation](Galaxy14-[Overlay-images-on-data-13-and-data-6-output_tiff].png)
+
+  Already at the level of seed image, I see that some galaxies are lost.
+
+C) Mallory:
 
 [SEP Output image](mallory_sep_output.png)
   
